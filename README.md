@@ -1,3 +1,3 @@
 # BullshitGeneratorWechat
-微信回复狗屁不通文章
+微信回复文章
 来自menzi11/BullshitGenerator
